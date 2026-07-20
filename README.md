@@ -184,12 +184,11 @@ Presented research on **Geoengineering and Climate Change**, exploring engineeri
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=singhtanyarajput&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=22D3EE&text_color=C9D1D9" alt="GitHub Stats" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=singhtanyarajput&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=C9D1D9" alt="Top Languages" width="35%"/>
+
+
 
 <img src="https://streak-stats.demolab.com?user=singhtanyarajput&theme=radical&hide_border=true&background=0D1117&ring=A855F7&fire=EC4899&currStreakLabel=22D3EE" alt="GitHub Streak" width="60%"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=singhtanyarajput&theme=radical&no-frame=true&column=7&margin-w=8&margin-h=8" alt="Trophies" width="90%"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=singhtanyarajput&theme=react-dark&bg_color=0D1117&color=22D3EE&line=A855F7&point=EC4899&hide_border=true" alt="Contribution Activity Graph" width="90%"/>
 
@@ -219,7 +218,7 @@ Presented research on **Geoengineering and Climate Change**, exploring engineeri
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=22D3EE)](https://www.linkedin.com/tanyasingh2006/)
 [![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EC4899)](mailto:singhtanyaofficial@gmail.com)
 
-*(Update the LinkedIn and Email links above with your actual profile URL and address.)*
+
 
 </div>
 

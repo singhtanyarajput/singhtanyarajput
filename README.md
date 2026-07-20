@@ -204,7 +204,6 @@ Presented research on **Geoengineering and Climate Change**, exploring engineeri
   <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/singhtanyarajput/singhtanyarajput/output/github-contribution-grid-snake.svg"/>
 </picture>
 
-*Generated automatically by the `snake.yml` workflow — see setup notes below.*
 
 </div>
 

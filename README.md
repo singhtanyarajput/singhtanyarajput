@@ -190,7 +190,7 @@ Presented research on **Geoengineering and Climate Change**, exploring engineeri
 <img src="https://streak-stats.demolab.com?user=singhtanyarajput&theme=radical&hide_border=true&background=0D1117&ring=A855F7&fire=EC4899&currStreakLabel=22D3EE" alt="GitHub Streak" width="60%"/>
 
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=singhtanyarajput&theme=react-dark&bg_color=0D1117&color=22D3EE&line=A855F7&point=EC4899&hide_border=true" alt="Contribution Activity Graph" width="90%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=singhtanyarajput&theme=react-dark&bg_color=0D1117&color=22D3EE&line=A855F7&point=EC4899&hide_border=true" />
 
 </div>
 

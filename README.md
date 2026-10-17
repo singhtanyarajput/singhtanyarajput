@@ -8,7 +8,7 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=singhtanyarajput&color=a855f7&style=flat-square&label=PROFILE+VIEWS)
+
 ![Followers](https://img.shields.io/github/followers/singhtanyarajput?label=Followers&style=flat-square&color=22d3ee&labelColor=0d1117)
 ![Stars](https://img.shields.io/github/stars/singhtanyarajput?label=Stars&style=flat-square&color=ec4899&labelColor=0d1117)
 

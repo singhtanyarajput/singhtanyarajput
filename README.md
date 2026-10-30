@@ -129,18 +129,6 @@ ML-based classifier that flags phishing attempts by analyzing email content, hea
 </td>
 <td width="50%" valign="top">
 
-**📊 Crime Data Analysis**
-
-Data analysis project uncovering patterns and trends in crime datasets to support evidence-based insights.
-
-`Tech:` Python, Pandas, Data Visualization
-`Security relevance:` Builds analytical skills directly transferable to threat intelligence and digital forensics workflows.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top" colspan="2">
-
 **🕶️ ZeroTrace** *(in development — not yet linked)*
 
 A privacy-focused tool concept centered on minimizing digital footprint and protecting user data.
